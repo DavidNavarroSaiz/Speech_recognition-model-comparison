@@ -1,0 +1,9 @@
+.env
+audio_files/english/*
+audio_files/spanish/*
+
+!audio_files/spanish/.gitkeep 
+!audio_files/english/.gitkeep 
+
+*.csv
+*.xlsx
